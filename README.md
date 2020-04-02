@@ -1,7 +1,7 @@
 Hi !
 
 This is a nice tips if you play animal crossing, you can easely add everything you want.
-And you can remenber the price, where ?, when ?...
+And you can remenber the price, where, when .....
 
 Is a laravel/vuejs and you need mysql, need to run npm install and create a db with name "critterpedia".
 
