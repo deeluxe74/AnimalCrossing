@@ -33,7 +33,7 @@ Ensuite il ne vous reste plus qu'a exécuté le lancement du serveur avec :
 npm run watch
 ```
 
-N'oubliez pas de lancer Xampp et éditer le .env pour relier la base de données et lancer les migrations (php artisan migrate).
+**N'oubliez pas de lancer Xampp et éditer le .env pour relier la base de données et lancer les migrations (php artisan migrate).**
 
 **Bonne nouvelle**, cette application est hébergée pour que vous puissiez la tester.<br>
 [critterpedia.noteatcookie.fr](critterpedia.noteatcookie.fr)
